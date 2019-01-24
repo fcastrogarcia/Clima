@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Clima/static/css/main.da86cc58.chunk.css"
   },
   {
-    "revision": "728f9e0b6ec140af2fe98bfb5e1b51be",
+    "revision": "5cfd704f8c47909ee054a57cfef88b41",
     "url": "/Clima/index.html"
   }
 ];
